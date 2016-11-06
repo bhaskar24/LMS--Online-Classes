@@ -1,0 +1,42 @@
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\Online Classes.exe.config
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\Online Classes.exe
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\Online Classes.pdb
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online Classes.csprojResolveAssemblyReference.cache
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.Properties.Resources.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online Classes.csproj.GenerateResource.Cache
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online Classes.exe
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online Classes.pdb
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.homeForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.LogInForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.dashBoardForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.ReportForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.ComplainsForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.onlineTestForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.queriesForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Interop.DXTMSFTLib.dll
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Interop.DXTRANSLib.dll
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online Classes.csproj.ResolveComReference.cache
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.eventFormNewEvent.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.eventFormRegister.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.eventFormShowEvent.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.myAccount.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.eventVideoForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.myAcntEditDetailsFormcs.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.signUpForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.studProbForm.resources
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\Interop.WMPLib.dll
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\AxInterop.WMPLib.dll
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Interop.WMPLib.dll
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\AxInterop.WMPLib.dll
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.myTestForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.showTestForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.testRegisForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.AboutUsForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.newsForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.pNewsForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.manageEventsForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Online_Classes.EBookForm.resources
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\Interop.AcroPDFLib.dll
+E:\gautam .net\Online Classes\Online Classes\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\Interop.AcroPDFLib.dll
+E:\gautam .net\Online Classes\Online Classes\bin\Debug\AxInterop.AcroPDFLib.dll
